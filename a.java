@@ -6,5 +6,6 @@ class hello {
 		}
 }
 
+this commit from developer B
 this code added by Amit
 
