@@ -6,4 +6,4 @@ class hello {
 		}
 }
 
-
+this commit from developer B
